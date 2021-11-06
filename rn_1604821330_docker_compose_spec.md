@@ -1,0 +1,12 @@
+- rn_1604821330_docker_compose_spec
+	- Imagine Communications - MyImagine Academy Content
+	- Created on the: 2021-08-24 10:49
+	-  <img src="https://avatars.githubusercontent.com/u/8113173?s=60&v=4" width="25" height="25" align="left">  James Rivers
+	- Written against (version): 
+	- Sources: 
+		- [Docker Compose Spec](https://github.com/compose-spec/compose-spec/blob/master/spec.md)
+	- Author Notes: 
+	- Tags: [readme](readme.md)
+	- ICON set : Warning ⚠️ / Notes 🗒 / Version 🌱 / Knowledge 🧠 / WWW 🕸 / Learning AIM 🎯
+---
+

@@ -1,0 +1,1 @@
+https://blog.crunchydata.com/blog/an-easy-recipe-for-creating-a-postgresql-cluster-with-docker-swarm
