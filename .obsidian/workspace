@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "rn_1254898376_Docker_builds_vmware_vic.md",
+            "file": "reference/rn_1254898376_Docker_builds_vmware_vic.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rn_1254898376_Docker_builds_vmware_vic.md",
+                "file": "reference/rn_1254898376_Docker_builds_vmware_vic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
   },
   "active": "436c872d407a32df",
   "lastOpenFiles": [
-    "rn_1254898376_Docker_builds_vmware_vic.md",
+    "reference/rn_1254898376_Docker_builds_vmware_vic.md",
     "fn_docker_fleeting_notes.md",
     "fn_dockercp_command.md",
     "pg_docker_swarm.md",
