@@ -4,6 +4,7 @@ Daily Docker Notes - what i find and issues I encounter.
 learn it and review all the differing types. 
 
 
+
 # Install issue diary
 ### 210824
 found an issue today - I am able to run up the docker compose for `hermes` on node 1 as a single no problem. But I am not able to deploy via a docker swarm.  

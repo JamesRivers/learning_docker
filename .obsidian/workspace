@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "aef15955a775e997",
+    "type": "split",
+    "children": [
+      {
+        "id": "436c872d407a32df",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c99a2cc22a4a3f4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1b3a43f16505111",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c0917e910827549",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "29f6e945c8425b6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 348
+  },
+  "right": {
+    "id": "e1113f4d27b5ec12",
+    "type": "split",
+    "children": [
+      {
+        "id": "23b021c43be1dbcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cad66f70a5103e8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "436c872d407a32df",
+  "lastOpenFiles": [
+    "README.md",
+    "Docker_Start_Here.md",
+    "Docker_CheatSheet.md"
+  ]
+}
