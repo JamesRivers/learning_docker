@@ -10,3 +10,6 @@ In this chapter we will have the following modules:
 - [S01+Why+Docker+Slides](S01+Why+Docker+Slides.pdf)
 - [Docker_CheatSheet](../../reference/Docker_CheatSheet.md)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WcQ3-M4-jik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
