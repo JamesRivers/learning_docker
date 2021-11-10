@@ -136,3 +136,63 @@ docker container logs ea
 172.17.0.1 - - [10/Nov/2021:18:13:23 +0000] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:94.0) Gecko/20100101 Firefox/94.0" "-"
 ```
 
+Experiment with the command `docker container logs` to get a differing ouptut. 
+```bash
+docker container logs --help
+
+Usage:  docker container logs [OPTIONS] CONTAINER
+
+Fetch the logs of a container
+
+Options:
+      --details        Show extra details provided to logs
+  -f, --follow         Follow log output
+      --since string   Show logs since timestamp (e.g. 2013-01-02T13:23:37Z) or relative (e.g. 42m for 42 minutes)
+  -n, --tail string    Number of lines to show from the end of the logs (default "all")
+  -t, --timestamps     Show timestamps
+      --until string   Show logs before a timestamp (e.g. 2013-01-02T13:23:37Z) or relative (e.g. 42m for 42 minutes)
+```
+
+I like follow!
+
+Other methods to check on the container state and health. `docker container top <id container`
+```bash
+➜ docker container top --help 
+
+Usage:  docker container top CONTAINER [ps OPTIONS]
+
+Display the running processes of a container
+
+learning_docker on  main [!] on ☁️  (us-east-1) 
+➜ docker container top ea    
+UID                 PID                 PPID                C                   STIME               TTY                 TIME                CMD
+root                15278               15252               0                   18:10               ?                   00:00:00            nginx: master process nginx -g daemon off;
+uuidd               15339               15278               0                   18:10               ?                   00:00:00            nginx: worker process
+uuidd               15340               15278               0                   18:10               ?                   00:00:00            nginx: worker process
+uuidd               15341               15278               0                   18:10               ?                   00:00:00            nginx: worker process
+uuidd               15342               15278               0                   18:10               ?                   00:00:00            nginx: worker process
+```
+
+Clean up this mess... and do it quickly. Ok, so we can remove our containers and do some housekeeping.  Use the `docker container rm` command and list multiple containers. 
+```bash
+➜ docker container ls -a      
+CONTAINER ID   IMAGE     COMMAND                  CREATED          STATUS                      PORTS                NAMES
+ea40e6c8eb42   nginx     "/docker-entrypoint.…"   12 minutes ago   Up 12 minutes               0.0.0.0:80->80/tcp   simple_server
+899e2103e0b6   nginx     "/docker-entrypoint.…"   23 minutes ago   Exited (0) 21 minutes ago                        jovial_satoshi
+f12a5997c104   nginx     "/docker-entrypoint.…"   26 minutes ago   Exited (0) 24 minutes ago                        serene_lumiere
+➜ docker container rm ea 89 f12
+89
+f12
+Error response from daemon: You cannot remove a running container ea40e6c8eb422c47ac2583ca9efdda761e4bf9df09b86dee1f39158b75eaa5c7. Stop the container before attempting removal or force remove
+❯ docker container ls -a       
+CONTAINER ID   IMAGE     COMMAND                  CREATED          STATUS          PORTS                NAMES
+ea40e6c8eb42   nginx     "/docker-entrypoint.…"   13 minutes ago   Up 13 minutes   0.0.0.0:80->80/tcp   simple_server
+```
+
+You cannot remove a running container - you have been warned.  But do you have the force?  `docker container rm -f <id container>`
+```bash
+docker container rm ea -f 
+```
+
+
+
