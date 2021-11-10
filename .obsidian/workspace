@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "436c872d407a32df",
+        "id": "f96f94af64814279",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "reference/rn_1254898376_Docker_builds_vmware_vic.md",
+            "file": "chapters/chapter1/cn_1877859660_docker_start_here.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/rn_1254898376_Docker_builds_vmware_vic.md",
+                "file": "chapters/chapter1/cn_1877859660_docker_start_here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "436c872d407a32df",
+  "active": "f96f94af64814279",
   "lastOpenFiles": [
+    "chapters/chapter1/cn_1877859660_docker_start_here.md",
+    "templates/reference_note.md",
+    "templates/academy_coursenote.md",
+    "reference/Docker_CheatSheet.md",
+    "Docker_Start_Here.md",
     "reference/rn_1254898376_Docker_builds_vmware_vic.md",
     "fn_docker_fleeting_notes.md",
     "fn_dockercp_command.md",
     "pg_docker_swarm.md",
-    "new.md",
-    "README.md",
-    "Docker_Start_Here.md",
-    "Docker_CheatSheet.md"
+    "new.md"
   ]
 }

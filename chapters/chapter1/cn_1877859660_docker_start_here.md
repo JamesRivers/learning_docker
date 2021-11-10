@@ -1,32 +1,18 @@
-- Docker_Start_Here
-	- Imagine Communications - MyImagine Academy Content
+- cn_1877859660_docker_start_here
 	- Created on the: 2021-03-12 16:01
 	- Created by: James Rivers
 	- Written against (version): 
+		- Differing docker versions
 	- Sources: 
+		- https://docs.docker.com
+		- https://docs.docker.com/get-started/overview/
 	- Author Notes: 
-	- Tags: 
-	- ICON set : Warning ⚠️ / Notes 🗒 / Version 🌱 / Knowledge 🧠 / WWW 🕸
+	- Tags: #dockeroverview
+	- ICON set : 
+		- Warning ⚠️ - Important need to know / Notes 🗒 - Additional notes / Version 🌱 - Specific to a Version / Knowledge 🧠 - Did you know / WWW 🕸 - Links to web pages / Learning AIM 🎯 - The Learning target for this topic / Evaluation 🧪 - Set of evaluation items to show the target was reached.  
+---
+
 ***
-
-```
-Remove this section 
-Page breaks  <div style="page-break-after: always;"></div>
-syntax hightlight CTRL + = 
--   Code fence with **syntax highlighting**
--   | Markdown **table** |
--   **\- \[x\] Task list**
--   ~~Strikethrough~~
-
-For expressiveness, Obsidian also supports:
-
--   **#Tags**
--   $$**LaTeX** math$$
--   \[^**Footnotes**\]
--   **\[\[Internal links\]\]**
--   **!\[\[Filename\]\]** to embed notes and other files
-```
-
 # Docker 
 Docker is an open platform for developing, shipping, and running applications. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly. With Docker, you can manage your infrastructure in the same ways you manage your applications. By taking advantage of Docker’s methodologies for shipping, testing, and deploying code quickly, you can significantly reduce the delay between writing code and running it in production.
 

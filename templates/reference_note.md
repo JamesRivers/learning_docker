@@ -1,0 +1,7 @@
+- {{title}}
+	- Created on the: {{date}} {{time}}
+	- Written by:
+		- James Rivers
+	- Sources: 
+	- Tags: 
+---
