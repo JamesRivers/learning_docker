@@ -7,9 +7,22 @@ Docker is an open platform for developing, shipping, and running applications. D
 ## Modules 
 In this chapter we will have the following modules:
 - [cn_1877859660_docker_start_here](cn_1877859660_docker_start_here.md)
+
+### Additional Learning 
 - [S01+Why+Docker+Slides](S01+Why+Docker+Slides.pdf)
 - [Docker_CheatSheet](../../reference/Docker_CheatSheet.md)
+- https://www.youtube.com/watch?v=WcQ3-M4-jik
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WcQ3-M4-jik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### You need ...
+Going forward in this course you will need a system to install and learn how to use Docker and containers.  Here are some suggestions for you:
+- deploy on `Linode`, build a linux VM and instal docker - spin up spin down as you need.  Could be `AWS` or `GCP` you get the picture. 
+- deploy local on your host machine - `docker desktop` on mac and windows. 
+- deploy local on your machine - native linux users just need to install docker. 
+- deploy via local linux vm, deploy a linux VM then install docker there
+- use free onlne tools like play-with-docker.  
+
+We cover how to get docker installed in the next chapter!
+
+
 
 
