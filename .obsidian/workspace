@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "aef15955a775e997",
+    "id": "a90326d4861b3f1a",
     "type": "split",
     "children": [
       {
-        "id": "f96f94af64814279",
+        "id": "8dfc7ebb861a2029",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapters/chapter1/cn_1877859660_docker_start_here.md",
+            "file": "reference/rn_1635875335_docker_install_arm.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapters/chapter1/cn_1877859660_docker_start_here.md",
+                "file": "reference/rn_1635875335_docker_install_arm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f96f94af64814279",
+  "active": "8dfc7ebb861a2029",
   "lastOpenFiles": [
-    "chapters/chapter1/cn_1877859660_docker_start_here.md",
+    "reference/rn_1635875335_docker_install_arm.md",
     "templates/reference_note.md",
     "templates/academy_coursenote.md",
+    "README.md",
+    "chapters/chapter1_docker_overiew/readme.md",
+    "chapters/chapter2_get_docker/readme.md",
+    "chapters/chapter1/cn_1877859660_docker_start_here.md",
     "reference/Docker_CheatSheet.md",
     "Docker_Start_Here.md",
-    "reference/rn_1254898376_Docker_builds_vmware_vic.md",
-    "fn_docker_fleeting_notes.md",
-    "fn_dockercp_command.md",
-    "pg_docker_swarm.md",
-    "new.md"
+    "reference/rn_1254898376_Docker_builds_vmware_vic.md"
   ]
 }

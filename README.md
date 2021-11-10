@@ -12,7 +12,7 @@ Through out this course there are set of icons to represent call outs, items of 
  - ⚠️  = Warning you need to know!
  - 🗒 = Additional notes 
  - 🌱 = Version specific
- - 🧠 = Did you know 
+ - 🧠 = Did you know?
  - 🕸 = Links to web pages 
  - 🎯 = The Learning target for this topic 
  - 🧪 = Set of evaluation items to show the target was reached 
