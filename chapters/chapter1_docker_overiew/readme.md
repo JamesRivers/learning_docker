@@ -1,4 +1,4 @@
-#Chapter 1 - Docker Overview
+# Chapter 1 - Docker Overview
 
 Start here to begin your docker journey.  
 
@@ -6,7 +6,6 @@ Docker is an open platform for developing, shipping, and running applications. D
 
 ## Modules 
 In this chapter we will have the following modules:
-- 🤸🏻
-- 📚
-
-[[cn_1877859660_docker_start_here.md]]
+- [cn_1877859660_docker_start_here](cn_1877859660_docker_start_here.md)
+- [S01+Why+Docker+Slides](S01+Why+Docker+Slides.pdf)
+- 
