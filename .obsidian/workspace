@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "reference/rn_1635875335_docker_install_arm.md",
+            "file": "cn_1879038510_simple_web_server.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/rn_1635875335_docker_install_arm.md",
+                "file": "cn_1879038510_simple_web_server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "8dfc7ebb861a2029",
   "lastOpenFiles": [
-    "reference/rn_1635875335_docker_install_arm.md",
-    "templates/reference_note.md",
-    "templates/academy_coursenote.md",
+    "cn_1879038510_simple_web_server.md",
+    "chapters/chapter3_getting_started/readme.md",
+    "rn_1891647410_docker_commands.md",
+    "rn_1891646561_docker_info.md",
+    "rn_1891642427_docker_version.md",
     "README.md",
-    "chapters/chapter1_docker_overiew/readme.md",
     "chapters/chapter2_get_docker/readme.md",
-    "chapters/chapter1/cn_1877859660_docker_start_here.md",
-    "reference/Docker_CheatSheet.md",
-    "Docker_Start_Here.md",
-    "reference/rn_1254898376_Docker_builds_vmware_vic.md"
+    "chapters/chapter1_docker_overiew/readme.md",
+    "reference/rn_1635875335_docker_install_arm.md",
+    "templates/reference_note.md"
   ]
 }
