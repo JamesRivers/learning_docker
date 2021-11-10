@@ -8,4 +8,5 @@ Docker is an open platform for developing, shipping, and running applications. D
 In this chapter we will have the following modules:
 - [cn_1877859660_docker_start_here](cn_1877859660_docker_start_here.md)
 - [S01+Why+Docker+Slides](S01+Why+Docker+Slides.pdf)
-- 
+- [Docker_CheatSheet](../../reference/Docker_CheatSheet.md)
+
