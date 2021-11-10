@@ -17,11 +17,11 @@
 		- Warning ⚠️ - Important need to know / Notes 🗒 - Additional notes / Version 🌱 - Specific to a Version / Knowledge 🧠 - Did you know / WWW 🕸 - Links to web pages / Learning AIM 🎯 - The Learning target for this topic / Evaluation 🧪 - Set of evaluation items to show the target was reached / Exercise 🤸 - Hands on time... /  Reading 📚  - Items for you to read. 
 ---
 # Image Vs Container
-• An Image is the application we want to run
-• A Container is an instance of that image running as a process
-• You can have many containers running off the same image
-• In this lecture our image will be the Nginx web server
-• Docker's default image "registry" is called Docker Hub (hub.docker.com)
+- An Image is the application we want to run
+- A Container is an instance of that image running as a process
+- You can have many containers running off the same image
+-  In this lecture our image will be the Nginx web server
+-  Docker's default image "registry" is called Docker Hub (hub.docker.com)
 
 ## Run 1st Container
 To deploy our first container we are going to:

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapters/chapter3_getting_started/readme.md",
+            "file": "chapters/chapter3_getting_started/cn_1879038510_simple_web_server.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapters/chapter3_getting_started/readme.md",
+                "file": "chapters/chapter3_getting_started/cn_1879038510_simple_web_server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "8dfc7ebb861a2029",
   "lastOpenFiles": [
-    "chapters/chapter3_getting_started/readme.md",
     "chapters/chapter3_getting_started/cn_1879038510_simple_web_server.md",
+    "chapters/chapter3_getting_started/readme.md",
     "rn_1891647410_docker_commands.md",
     "rn_1891646561_docker_info.md",
     "rn_1891642427_docker_version.md",
