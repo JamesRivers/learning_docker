@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapters/chapter3_getting_started/readme.md",
+            "file": "chapters/chapter3_getting_started/cn_1879048325_docker_networks_concepts.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448
+    "width": 446
   },
   "right": {
     "id": "e1113f4d27b5ec12",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapters/chapter3_getting_started/readme.md",
+                "file": "chapters/chapter3_getting_started/cn_1879048325_docker_networks_concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "8dfc7ebb861a2029",
   "lastOpenFiles": [
-    "chapters/chapter3_getting_started/readme.md",
+    "chapters/chapter3_getting_started/cn_1879048325_docker_networks_concepts.md",
+    "templates/coursenote.md",
     "chapters/chapter3_getting_started/cn_1879048084_shell_into_containers_no_ssh.md",
     "chapters/chapter3_getting_started/cn_1879046079_monitor_containers.md",
-    "chapters/chapter3_getting_started/ex_1879045599_manage_containers.md",
     "chapters/chapter3_getting_started/cn_1879044137_containers_vs_vmmachines.md",
-    "chapters/chapter1_docker_overiew/cn_1877859660_docker_start_here.md",
     "chapters/chapter3_getting_started/cn_1879038510_simple_web_server.md",
-    "templates/coursenote.md",
-    "rn_1891647410_docker_commands.md",
-    "rn_1891646561_docker_info.md"
+    "README.md",
+    "chapters/chapter3_getting_started/readme.md",
+    "exercises/ex_1879045599_manage_containers.md",
+    "reference/rn_1891642427_docker_version.md"
   ]
 }
