@@ -8,6 +8,8 @@ Now you have docker installed we are going to get started on containers.
 - Start our first container ... [[cn_1879038510_simple_web_server](cn_1879038510_simple_web_server.md)]
 - Containers Vs Virtual Machines - [cn_1879044137_containers_vs_vmmachines](cn_1879044137_containers_vs_vmmachines.md)
 - Exercise - manage mulitiple containers - test yourself - [ex_1879045599_manage_containers](ex_1879045599_manage_containers.md)
+- Monitoring your containers [cn_1879046079_monitor_containers](cn_1879046079_monitor_containers.md)
+- Accessing your containers - [cn_1879048084_shell_into_containers_no_ssh](cn_1879048084_shell_into_containers_no_ssh.md)
 
 ### Additional learning 
 Everything we are doing in this course is using linux containers, but there are Windows based containers if you are interested. Here are some additional learning items regards docker containers and windows. 
