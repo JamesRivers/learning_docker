@@ -12,7 +12,7 @@
 	- Author Notes: 
 		- 
 	- Tags: 
-		- 
+		- #docker
 	- ICON set : 
 		- Warning ⚠️ - Important need to know / Notes 🗒 - Additional notes / Version 🌱 - Specific to a Version / Knowledge 🧠 - Did you know / WWW 🕸 - Links to web pages / Learning AIM 🎯 - The Learning target for this topic / Evaluation 🧪 - Set of evaluation items to show the target was reached / Exercise 🤸 - Hands on time... /  Reading 📚  - Items for you to read. 
 ---
@@ -193,6 +193,18 @@ You cannot remove a running container - you have been warned.  But do you have t
 ```bash
 docker container rm ea -f 
 ```
+
+## What happens in docker container run
+- looks for an image locally in the image cache
+- nothing located, it will look in the remote image repository - default is docker hub
+	- note we can add other repos as required. 
+- downloads the latest version of the imge as we did specifiy a version tag. 
+- it created a new container based on that image and prepares to start. 
+- a new virtual IP is allocated to the conrtainer on the default bridge docker network. 
+- opens a port 80, on the host and forwards to port 80 in the container
+- starts container by using the CMD in the image dockerfile
+
+
 
 
 

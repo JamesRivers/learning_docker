@@ -1,5 +1,4 @@
 - {{title}}
-	- Imagine Communications - MyImagine Academy Content
 	- Created on the: {{date}} {{time}}
 	- Review date:
 	- Updated:
