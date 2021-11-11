@@ -33,3 +33,25 @@ Exercise 🤸
 - Run alpine nslookup search with --net to see the two containers list for the same DNS name
 - Run centos curl -s search:9200 with --net multiple times until you see both "name" fields show
 
+---
+## steps
+Build the network and create the 2 elasticsearch containers 
+```bash 
+❯ docker network create --driver bridge newdns-network 
+474c292289ba3e1101db8ed951be77df3f6b70fb49a7a87a74a912e11c345934
+docker container run -d --net newdns-network -e discovery.type=single-node --net-alias search elasticsearch:7.14.2
+docker container run -d --net newdns-network -e discovery.type=single-node --net-alias search elasticsearch:7.14.2
+```
+
+Knowledge 🧠 What is elasticsearch?  Elasticsearch is a search engine based on the Lucene library. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents. More info [here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjtuZGA6ZD0AhUzQUEAHXXbAOAQmhN6BAg8EAI&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FElasticsearch&usg=AOvVaw0djJYNuxlBs6k1rD2t_on1)
+
+Next we need to run an nslookup. 
+```bash
+docker container run --rm --net newdns-network alpine nslookup search  
+```
+
+Next we need to run curl and check the result
+```bash 
+docker container run --rm --net newdns-network centos curl -s search:9200
+```
+
