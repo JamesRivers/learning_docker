@@ -36,3 +36,5 @@ If you are running on a linux host running the command `ps aux` show me all runn
 Everything we have done so far is using containers in Linux base systems.  But you can start to expore docker and Windows containers (why would you?)... But here you go [# Windows Containers and Docker: 101](https://www.youtube.com/watch?v=066-9yw8-7c)
 
 
+
+
