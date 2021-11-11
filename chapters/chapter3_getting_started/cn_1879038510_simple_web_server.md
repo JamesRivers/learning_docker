@@ -6,7 +6,8 @@
 	- Written by 
 		- James Rivers
 	- Written against (version):
-		- 
+		- Client 20.10.5
+		- Server 20.10.5
 	- Sources: 
 		- Brett Fisher
 	- Author Notes: 

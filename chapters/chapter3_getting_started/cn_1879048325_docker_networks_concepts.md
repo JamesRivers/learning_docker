@@ -5,6 +5,8 @@
 	- Written by 
 		- James Rivers
 	- Written against (version):
+		- Client 20.10.5
+		- Server 20.10.5
 	- Sources: 
 		- Brett Fisher
 		- https://docs.docker.com/engine/tutorials/networkingcontainers/
@@ -23,6 +25,7 @@ Learning AIM 🎯
 - docker network diagram overview
 
 ## docker network defaults
+
 - Each container connected to a private virtual network "bridge"
 - Each virtual network routes through NAT firewall on host IP
 - All containers on a virtual network can talk to each other without -p
@@ -56,7 +59,10 @@ I know that the detail I am looking for is under `NetworkSettings` so I am going
 ❯ docker container inspect --format '{{ .NetworkSettings.IPAddress }}' de
 172.17.0.2
 ``` 
-there we go the docker virtual ip for this container is 1`72.17.0.2`
+there we go the docker virtual ip for this container is `172.17.0.2`
+
+In this example we need to understand that container as can talk to other containers if they are on the same network. Here we can see that mysql and the container connected to the `mynet` network can talk to each other.
+
 ![](../../attachments/Pasted%20image%2020211111132351.png)
 
 

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapters/chapter3_getting_started/cn_1879048325_docker_networks_concepts.md",
-            "mode": "source"
+            "file": "exercises/ex_1879060837_container_cli_testing.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapters/chapter3_getting_started/cn_1879048325_docker_networks_concepts.md",
+                "file": "exercises/ex_1879060837_container_cli_testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "8dfc7ebb861a2029",
   "lastOpenFiles": [
-    "chapters/chapter3_getting_started/cn_1879048325_docker_networks_concepts.md",
-    "templates/coursenote.md",
-    "chapters/chapter3_getting_started/cn_1879048084_shell_into_containers_no_ssh.md",
-    "chapters/chapter3_getting_started/cn_1879046079_monitor_containers.md",
-    "chapters/chapter3_getting_started/cn_1879044137_containers_vs_vmmachines.md",
-    "chapters/chapter3_getting_started/cn_1879038510_simple_web_server.md",
-    "README.md",
+    "exercises/ex_1879060837_container_cli_testing.md",
     "chapters/chapter3_getting_started/readme.md",
+    "chapters/chapter3_getting_started/cn_1894949653_docker_network_managment.md",
     "exercises/ex_1879045599_manage_containers.md",
-    "reference/rn_1891642427_docker_version.md"
+    "chapters/chapter3_getting_started/cn_1879049061_docker_networks_dns.md",
+    "chapters/chapter3_getting_started/cn_1879048325_docker_networks_concepts.md",
+    "chapters/chapter1_docker_overiew/cn_1877859660_docker_start_here.md",
+    "chapters/chapter3_getting_started/cn_1879038510_simple_web_server.md",
+    "chapters/chapter3_getting_started/cn_1879044137_containers_vs_vmmachines.md",
+    "chapters/chapter3_getting_started/cn_1879046079_monitor_containers.md"
   ]
 }

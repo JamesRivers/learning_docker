@@ -1,8 +1,9 @@
 - cn_1877859660_docker_start_here
 	- Created on the: 2021-03-12 16:01
 	- Created by: James Rivers
-	- Written against (version): 
-		- Differing docker versions
+	- Written against (version):
+		- Client 20.10.5
+		- Server 20.10.5
 	- Sources: 
 		- https://docs.docker.com
 		- https://docs.docker.com/get-started/overview/
