@@ -33,6 +33,7 @@ Ports, nginx needs to listen on port 80 so that would be 80:80, httpd needs to l
  
  Try not to peek at the steps as to how I would do it below... 
  
+ --- 
  
  ## Steps 
  
