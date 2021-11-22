@@ -13,11 +13,13 @@ Now you have docker installed we are going to get started on containers.
 - docker networks - [cn_1879048325_docker_networks_concepts](cn_1879048325_docker_networks_concepts.md)
 - docker network dns - [cn_1879049061_docker_networks_dns](cn_1879049061_docker_networks_dns.md)
 - management of docker networks - [cn_1894949653_docker_network_managment](cn_1894949653_docker_network_managment.md)
-- excercise - cli app testing [ex_1879060837_container_cli_testing](../../exercises/ex_1879060837_container_cli_testing.md)
-- 
+- exercise - cli app testing [ex_1879060837_container_cli_testing](../../exercises/ex_1879060837_container_cli_testing.md)
+- exercise - dns round robin [ex_1895852542_dns_round_robin](../../exercises/ex_1895852542_dns_round_robin.md)
 
 ### Additional learning 
 Everything we are doing in this course is using linux containers, but there are Windows based containers if you are interested. Here are some additional learning items regards docker containers and windows. 
 - [Windows Containers and Docker: 101](https://www.youtube.com/watch?v=066-9yw8-7c)
 - [ Beyond  the path to Windows and Linux parity in Docker](https://www.youtube.com/watch?v=4ZY_4OeyJsw)
 - [Docker + Microsoft - Investing in the Future of your Applications](https://www.youtube.com/watch?v=QASAqcuuzgI)
+
+### Reference materials
