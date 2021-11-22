@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapters/chapter4_docker_images/cn_1879062638_running_docker_builds.md",
+            "file": "chapters/chapter5_container_lifespan/cn_1879064246_docker_data_volumes.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapters/chapter4_docker_images/cn_1879062638_running_docker_builds.md",
+                "file": "chapters/chapter5_container_lifespan/cn_1879064246_docker_data_volumes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "8dfc7ebb861a2029",
   "lastOpenFiles": [
-    "chapters/chapter4_docker_images/cn_1879062638_running_docker_builds.md",
-    "chapters/chapter4_docker_images/cn_1879062520_building_images_docker_file.md",
-    "chapters/chapter4_docker_images/cn_1879061349_what_is_an_image.md",
-    "chapters/chapter4_docker_images/cn_1879061650_docker_hub.md",
-    "chapters/chapter4_docker_images/cn_1879061871_image_layers.md",
-    "chapters/chapter4_docker_images/readme.md",
-    "templates/reference_note.md",
-    "templates/coursenote.md",
+    "chapters/chapter5_container_lifespan/cn_1879064246_docker_data_volumes.md",
+    "reference/Docker+Mastery+Commands+2.0/Docker+Mastery+Slides+3.0/S05 Volumes Slides.pdf",
+    "chapters/chapter5_container_lifespan/readme.md",
     "README.md",
-    "chapters/chapter4_docker_images/cn_1879061746_private_repo.md"
+    "chapters/chapter4_docker_images/readme.md",
+    "chapters/chapter4_docker_images/cn_1879063702_docker_prune.md",
+    "exercises/ex_1879063145_build_your_own_dockerfile_run.md",
+    "reference/Docker+Mastery+Slides+3.0/S04 Images Slides.pdf",
+    "chapters/chapter4_docker_images/cn_1879062638_running_docker_builds.md",
+    "chapters/chapter4_docker_images/cn_1879062520_building_images_docker_file.md"
   ]
 }
