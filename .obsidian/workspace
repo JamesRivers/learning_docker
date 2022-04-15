@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "a90326d4861b3f1a",
+    "id": "ff68cca6f9203071",
     "type": "split",
     "children": [
       {
-        "id": "8dfc7ebb861a2029",
+        "id": "076452b1e8cf39ce",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapters/chapter5_container_lifespan/cn_1879064246_docker_data_volumes.md",
-            "mode": "source"
+            "file": "reference/rn_1609115804_docker_stack_deploy.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446
+    "width": 804
   },
   "right": {
     "id": "e1113f4d27b5ec12",
@@ -68,12 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapters/chapter5_container_lifespan/cn_1879064246_docker_data_volumes.md",
+                "file": "reference/rn_1609115804_docker_stack_deploy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
+                "showSearch": true,
+                "searchQuery": "wireguard",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -83,20 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "8dfc7ebb861a2029",
+  "active": "076452b1e8cf39ce",
   "lastOpenFiles": [
-    "chapters/chapter5_container_lifespan/cn_1879064246_docker_data_volumes.md",
-    "reference/Docker+Mastery+Commands+2.0/Docker+Mastery+Slides+3.0/S05 Volumes Slides.pdf",
-    "chapters/chapter5_container_lifespan/readme.md",
-    "README.md",
-    "chapters/chapter4_docker_images/readme.md",
-    "chapters/chapter4_docker_images/cn_1879063702_docker_prune.md",
-    "exercises/ex_1879063145_build_your_own_dockerfile_run.md",
-    "reference/Docker+Mastery+Slides+3.0/S04 Images Slides.pdf",
-    "chapters/chapter4_docker_images/cn_1879062638_running_docker_builds.md",
-    "chapters/chapter4_docker_images/cn_1879062520_building_images_docker_file.md"
+    "reference/rn_1609115804_docker_stack_deploy.md",
+    "reference/rn_1635875335_docker_install_arm.md",
+    "reference/rn_1605466814_portainer_docker_swarm.md",
+    "reference/rn_1604971395_docker_compose_environment_variables.md",
+    "reference/rn_1595389489_docker_swarm_about.md",
+    "templates/course_note.md",
+    "templates/reference_note.md",
+    "chapters/chapter1_docker_overiew/readme.md",
+    "chapters/chapter1_docker_overiew/cn_1877859660_docker_start_here.md",
+    "chapters/chapter5_container_lifespan/cn_1879064246_docker_data_volumes.md"
   ]
 }
